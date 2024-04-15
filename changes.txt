@@ -1,0 +1,3 @@
+App.js
+- Included some basic header and POD NASA API functionality.
+- Projects needs refractoring however.
